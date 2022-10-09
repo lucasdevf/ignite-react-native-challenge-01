@@ -12,3 +12,7 @@ export const Tasks = styled.View`
 
   padding: 0 24px;
 `
+
+export const List = styled.View`
+  margin-top: 20px;
+`
